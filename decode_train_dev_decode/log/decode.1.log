@@ -1,0 +1,363 @@
+# asr_recog.py --config conf/decode.yaml --ngpu 0 --backend pytorch --debugmode 1 --verbose 1 --recog-json dump/train_dev/deltafalse/split8utt/data.1.json --result-label exp/train_nodev_pytorch_dump_checkpoints/decode_train_dev_decode/data.1.json --model exp/train_nodev_pytorch_dump_checkpoints/results/model.acc.best 
+# Started at Fri Oct 18 19:02:52 IST 2019
+#
+2019-10-18 19:02:52,972 (asr_recog:161) INFO: python path = (None)
+2019-10-18 19:02:52,972 (asr_recog:166) INFO: set random seed = 1
+2019-10-18 19:02:52,972 (asr_recog:174) INFO: backend = pytorch
+2019-10-18 19:02:54,295 (deterministic_utils:24) INFO: torch type check is disabled
+2019-10-18 19:02:54,295 (asr_utils:407) INFO: reading a config file from exp/train_nodev_pytorch_dump_checkpoints/results/model.json
+2019-10-18 19:02:54,295 (asr_init:141) INFO: reading model parameters from exp/train_nodev_pytorch_dump_checkpoints/results/model.acc.best
+2019-10-18 19:02:54,295 (e2e_asr:159) INFO: subsample: 1 2 2 1 1
+2019-10-18 19:02:54,359 (encoders:236) INFO: BLSTM with every-layer projection for encoder
+2019-10-18 19:02:54,702 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 45.
+2019-10-18 19:02:54,703 (decoders:536) INFO: max output length: 45
+2019-10-18 19:02:54,703 (decoders:537) INFO: min output length: 0
+2019-10-18 19:02:54,703 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:02:54,703 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:02:55,283 (asr_utils:594) INFO: groundtruth: sil b r ih sil k s aa r er n aa l sil t er n ih sil t ih v sil
+2019-10-18 19:02:55,283 (asr_utils:595) INFO: prediction :  brih ksaarihnaal ternih tihv <eos>
+2019-10-18 19:02:55,565 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 70.
+2019-10-18 19:02:55,565 (decoders:536) INFO: max output length: 70
+2019-10-18 19:02:55,566 (decoders:537) INFO: min output length: 0
+2019-10-18 19:02:55,566 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:02:55,566 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:02:56,348 (asr_utils:594) INFO: groundtruth: sil f ae sil sh ow sil d ih n l uw s r ow l z sil b ih n iy th ih sh er sil sil
+2019-10-18 19:02:56,348 (asr_utils:595) INFO: prediction :  fae show gihnluwsrowlz bihdxiythihsher  <eos>
+2019-10-18 19:02:56,812 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 115.
+2019-10-18 19:02:56,813 (decoders:536) INFO: max output length: 115
+2019-10-18 19:02:56,813 (decoders:537) INFO: min output length: 0
+2019-10-18 19:02:56,814 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:02:56,814 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:02:58,767 (asr_utils:594) INFO: groundtruth: sil ih sil s ah f er z f r ah m ah l ae sil k ih v y uw n ih sil t iy ah v sil p er sil p ih s eh n r ih s sil p eh sil t f er hh er r ow ih sil k l iy dx er sh ih sil p sil
+2019-10-18 19:02:58,768 (asr_utils:595) INFO: prediction :  ih sehversfermahlae kahvyuwnih tiyihv per pihsihners peh tferhherrowlih kliydxershah p <eos>
+2019-10-18 19:02:59,084 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 76.
+2019-10-18 19:02:59,085 (decoders:536) INFO: max output length: 76
+2019-10-18 19:02:59,085 (decoders:537) INFO: min output length: 0
+2019-10-18 19:02:59,085 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:02:59,085 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:00,043 (asr_utils:594) INFO: groundtruth: sil sh iy s sil l ih sil t eh n s sil p r ey n hh er ae ng sil k l aa n dh ih s sil t iy sil p s l ow sil p sil
+2019-10-18 19:03:00,043 (asr_utils:595) INFO: prediction :  shiysluh dihns perihnghheraeng kowlaanahs tiy pslow p <eos>
+2019-10-18 19:03:00,317 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 68.
+2019-10-18 19:03:00,317 (decoders:536) INFO: max output length: 68
+2019-10-18 19:03:00,317 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:00,317 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:00,317 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:01,099 (asr_utils:594) INFO: groundtruth: sil eh l uw m ih n ah m s ih l v uw w eh er sil k eh n aa f ih n sil b iy f l ih m z iy sil
+2019-10-18 19:03:01,099 (asr_utils:595) INFO: prediction :  ahluhmihnahmsowverwer kihnaafihn biyflehnziy <eos>
+2019-10-18 19:03:01,482 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 94.
+2019-10-18 19:03:01,483 (decoders:536) INFO: max output length: 94
+2019-10-18 19:03:01,483 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:01,483 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:01,483 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:02,932 (asr_utils:594) INFO: groundtruth: sil y ah ng sil ch ih l sil d r ih n sh uh dx ah v oy sil d ih sil k s sil p ow sh er sil t ih sil k ih n sil t ey sil jh ih s sil d ih z iy z ih z sil
+2019-10-18 19:03:02,932 (asr_utils:595) INFO: prediction :  yahn chihl dernshihdxahvaar ih ks powsher tih kihn tey jhers dihziyzahns <eos>
+2019-10-18 19:03:03,249 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 73.
+2019-10-18 19:03:03,250 (decoders:536) INFO: max output length: 73
+2019-10-18 19:03:03,250 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:03,250 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:03,250 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:04,127 (asr_utils:594) INFO: groundtruth: sil w eh dh er sil p r uw f sil g ah l aa sh ih z er v er r iy y uw s f ah l ih n s iy ae dx l sil
+2019-10-18 19:03:04,127 (asr_utils:595) INFO: prediction :  wahdher priyth kahlaashihzerviheryuwzfahlehnsiyaedxl <eos>
+2019-10-18 19:03:04,403 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 67.
+2019-10-18 19:03:04,404 (decoders:536) INFO: max output length: 67
+2019-10-18 19:03:04,404 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:04,404 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:04,404 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:05,158 (asr_utils:594) INFO: groundtruth: sil p ae m sil g ih v s sil d r ay v iy ng l eh s n z aa n th er z sil d ey z sil
+2019-10-18 19:03:05,158 (asr_utils:595) INFO: prediction :  paen gih s trayviynglahsihnzaandhers teyz <eos>
+2019-10-18 19:03:05,662 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 124.
+2019-10-18 19:03:05,663 (decoders:536) INFO: max output length: 124
+2019-10-18 19:03:05,663 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:05,663 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:05,663 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:07,726 (asr_utils:594) INFO: groundtruth: sil hh ih z sil k ae sil t ih n w ah s th ih n ae n hh ae sil g er sil d ih n ih z sil b y uw dx uw f l sil b uw sil t s sil w er w aa r n ih n sil sh ae sil b iy sil
+2019-10-18 19:03:07,726 (asr_utils:595) INFO: prediction :  hhihz kawn dahnwahs tihmahnhhae ger dihnihz biyvihfl bow s werwaarnihnshae biy <eos>
+2019-10-18 19:03:08,088 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 88.
+2019-10-18 19:03:08,089 (decoders:536) INFO: max output length: 88
+2019-10-18 19:03:08,089 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:08,089 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:08,089 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:09,072 (asr_utils:594) INFO: groundtruth: sil dh ih r iy z ah n z f er dh ih s sil d ay v s iy m sil d f uw l ih sh sil n aw sil
+2019-10-18 19:03:09,073 (asr_utils:595) INFO: prediction :  dhihriysernsferdhahs tayvsiym tfuwmlihsh naw <eos>
+2019-10-18 19:03:09,452 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 94.
+2019-10-18 19:03:09,453 (decoders:536) INFO: max output length: 94
+2019-10-18 19:03:09,453 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:09,453 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:09,453 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:10,641 (asr_utils:594) INFO: groundtruth: sil p er sil d ah sil k sh ih n m ey f aa l f aa r sil b ah l ow ah sil k s sil p ih sil t ey sh n sil s sil
+2019-10-18 19:03:10,641 (asr_utils:595) INFO: prediction :  prih dah kshihneyfaalfaar blowweh ks pih teyshihn s <eos>
+2019-10-18 19:03:10,992 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 83.
+2019-10-18 19:03:10,992 (decoders:536) INFO: max output length: 83
+2019-10-18 19:03:10,992 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:10,993 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:10,993 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:12,010 (asr_utils:594) INFO: groundtruth: sil p iy sil s er r iy ih z aa r sil k ih n v iy n y ih n sil f er ih sil k w ih sil k l ah n sil ch sil
+2019-10-18 19:03:12,010 (asr_utils:595) INFO: prediction :  piy serriyihzaar kihnmiynihn ferih kwih klahn ch <eos>
+2019-10-18 19:03:12,323 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 77.
+2019-10-18 19:03:12,324 (decoders:536) INFO: max output length: 77
+2019-10-18 19:03:12,324 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:12,324 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:12,324 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:13,154 (asr_utils:594) INFO: groundtruth: sil p uh sil dh ah sil b uh sil ch er sil b l aa sil t ey sil b l ah n dh ih sil g er aa sh sil
+2019-10-18 19:03:13,154 (asr_utils:595) INFO: prediction :  puh dhah bl cher baa tey boynngih geraash <eos>
+2019-10-18 19:03:13,512 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 88.
+2019-10-18 19:03:13,513 (decoders:536) INFO: max output length: 88
+2019-10-18 19:03:13,513 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:13,514 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:13,514 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:14,583 (asr_utils:594) INFO: groundtruth: sil d r aa sil f ay v f aa r m z ah n dh ah sil b aa sil k s sil b ah f aa r y ih sil g ow aw sil sil
+2019-10-18 19:03:14,583 (asr_utils:595) INFO: prediction :  draa fay saarnsihndhah baa ks plfaariyih gowaw  <eos>
+2019-10-18 19:03:14,923 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 84.
+2019-10-18 19:03:14,923 (decoders:536) INFO: max output length: 84
+2019-10-18 19:03:14,923 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:14,923 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:14,923 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:15,991 (asr_utils:594) INFO: groundtruth: sil hh er w aa r sil d r ow sil k n s ih s ah v ow n l iy s sil k er sil t s ah n sil b l aw s ih s sil
+2019-10-18 19:03:15,991 (asr_utils:595) INFO: prediction :  hherwaar drow kihnsehsahvowmliys ker tsihn blae sahs <eos>
+2019-10-18 19:03:16,239 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 61.
+2019-10-18 19:03:16,239 (decoders:536) INFO: max output length: 61
+2019-10-18 19:03:16,239 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:16,239 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:16,239 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:16,957 (asr_utils:594) INFO: groundtruth: sil eh l sil d er l iy sil p iy sil p l er aa f ih n ih sil k s sil k l uw sil d ih sil d sil
+2019-10-18 19:03:16,957 (asr_utils:595) INFO: prediction :  ehldherliy piy plaaraafihnih ks kluw dih d <eos>
+2019-10-18 19:03:17,441 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 121.
+2019-10-18 19:03:17,441 (decoders:536) INFO: max output length: 121
+2019-10-18 19:03:17,441 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:17,441 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:17,442 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:19,300 (asr_utils:594) INFO: groundtruth: sil ih n w ah w ey z dh eh n sil d ih sil dh ih sil p ey sh ih n sil s ay sil k ih sil k l sil b l ay n ih s sil m ae n ah f eh s sil t ih sil s eh l f sil
+2019-10-18 19:03:19,301 (asr_utils:595) INFO: prediction :  ihnlaaweyzdhehndihdhih peyshihnsay kih kl blaynihz maenahfihsih sehlf <eos>
+2019-10-18 19:03:19,637 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 83.
+2019-10-18 19:03:19,638 (decoders:536) INFO: max output length: 83
+2019-10-18 19:03:19,638 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:19,638 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:19,638 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:20,616 (asr_utils:594) INFO: groundtruth: sil ih w uh sil b iy ih sil k l aa s l sh ey m sil d ih th r ow w ey ih s sil t aa r iy l ay sil dh ih s sil
+2019-10-18 19:03:20,616 (asr_utils:595) INFO: prediction :  guh bih klaasowsheyn dihtherowweys taarlay dhihs <eos>
+2019-10-18 19:03:20,909 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 73.
+2019-10-18 19:03:20,909 (decoders:536) INFO: max output length: 73
+2019-10-18 19:03:20,909 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:20,910 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:20,910 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:21,801 (asr_utils:594) INFO: groundtruth: sil l eh dx aa l sil p r aa sil jh eh sil k s sil d r ay s l ow l iy f er s eh v r l sil d ey z sil
+2019-10-18 19:03:21,801 (asr_utils:595) INFO: prediction :  lehdxaal praa jheh ks trayslowliyfersehvrl deyz <eos>
+2019-10-18 19:03:22,064 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 65.
+2019-10-18 19:03:22,064 (decoders:536) INFO: max output length: 65
+2019-10-18 19:03:22,064 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:22,065 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:22,065 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:22,888 (asr_utils:594) INFO: groundtruth: sil dh ih s aw n d uh v sil jh ih n ih f er z sil b y uw sil g l s sil k eh er sil dh ah ae n l ow sil sil
+2019-10-18 19:03:22,888 (asr_utils:595) INFO: prediction :  dhihsaemn dih jhihnerferz biy bls kiherdhihihnlow <eos>
+2019-10-18 19:03:23,149 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 64.
+2019-10-18 19:03:23,149 (decoders:536) INFO: max output length: 64
+2019-10-18 19:03:23,149 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:23,149 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:23,150 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:23,753 (asr_utils:594) INFO: groundtruth: sil hh ay w ey ih n f r iy w ey m iy n dh ih s ey m sil th ih ng sil
+2019-10-18 19:03:23,753 (asr_utils:595) INFO: prediction :  hhayweyihnfriyleymiynahseym baeng <eos>
+2019-10-18 19:03:24,038 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 65.
+2019-10-18 19:03:24,039 (decoders:536) INFO: max output length: 65
+2019-10-18 19:03:24,039 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:24,039 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:24,039 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:24,767 (asr_utils:594) INFO: groundtruth: sil dh ih f aa sil p er v ih n ih sil dh eh m f r m er r ay v ih ng aa n sil t ay m sil
+2019-10-18 19:03:24,767 (asr_utils:595) INFO: prediction :  dhihfaa pervehnihdhehnfermerrayvihngaan taym <eos>
+2019-10-18 19:03:25,085 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 78.
+2019-10-18 19:03:25,086 (decoders:536) INFO: max output length: 78
+2019-10-18 19:03:25,086 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:25,086 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:25,086 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:26,138 (asr_utils:594) INFO: groundtruth: sil d ae f sil n iy s sil w iy dx ih sh sil n iy dx l sil p oy n sil s sil k aa r f sil m ae sil ch sil jh er s sil k er sil t sil
+2019-10-18 19:03:26,139 (asr_utils:595) INFO: prediction :  daefniys wiydxihsh neydxah poyn s kaarfmae ch ters ker t <eos>
+2019-10-18 19:03:26,429 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 71.
+2019-10-18 19:03:26,430 (decoders:536) INFO: max output length: 71
+2019-10-18 19:03:26,430 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:26,430 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:26,430 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:27,343 (asr_utils:594) INFO: groundtruth: sil iy v ih n ih s ih m sil p l v ih sil k ae sil b y l eh r iy sil k ih n sil t ey n s ih m sil b l z sil
+2019-10-18 19:03:27,343 (asr_utils:595) INFO: prediction :  iymihsih pl lih kae byihlihriy kihn teynsehm blz <eos>
+2019-10-18 19:03:27,848 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 128.
+2019-10-18 19:03:27,849 (decoders:536) INFO: max output length: 128
+2019-10-18 19:03:27,849 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:27,849 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:27,849 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:30,260 (asr_utils:594) INFO: groundtruth: sil ah r ih sil jh n ah l iy sil dh ih m ey n sil t ay sil p sh y uw z sil t sil w er v eh r iy ih s sil k ah m sil p ah z ih sh ih n z ah v sil p aa l iy eh s sil t er z sil
+2019-10-18 19:03:30,260 (asr_utils:595) INFO: prediction :  ahrih jhlahliy dhahmeyn tay chyuwz tahwervehriyihs kahm pahzihshihnzahv paaliyehs ters <eos>
+2019-10-18 19:03:30,405 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 38.
+2019-10-18 19:03:30,406 (decoders:536) INFO: max output length: 38
+2019-10-18 19:03:30,406 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:30,406 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:30,406 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:30,743 (asr_utils:594) INFO: groundtruth: sil w ah dx ah sil b aw dx ih sil t iy r uw m dh eh n sil
+2019-10-18 19:03:30,743 (asr_utils:595) INFO: prediction :  wahdxah bawdxih tiymuwm dehm <eos>
+2019-10-18 19:03:31,195 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 121.
+2019-10-18 19:03:31,195 (decoders:536) INFO: max output length: 121
+2019-10-18 19:03:31,195 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:31,195 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:31,195 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:32,888 (asr_utils:594) INFO: groundtruth: sil s eh v l f er m z er m er sil ch ih n sil d ay z ih ng eh n z ay m sil p r eh sil p er ey sh ih n th r uw f iy sil m ae n y ih f ae sil k sh er ih z sil
+2019-10-18 19:03:32,888 (asr_utils:595) INFO: prediction :  sehvaafermzehmer chihn dayzihngihnzayn preh pereyshihn druwfiymaenyihfae cherihz <eos>
+2019-10-18 19:03:33,076 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 49.
+2019-10-18 19:03:33,077 (decoders:536) INFO: max output length: 49
+2019-10-18 19:03:33,077 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:33,077 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:33,077 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:33,543 (asr_utils:594) INFO: groundtruth: sil hh iy s sil t ow l ah sil d ay m sil f r ah m ah sil b ey sil g er sil
+2019-10-18 19:03:33,544 (asr_utils:595) INFO: prediction :  hhiys towlah dayn rahmah bey ger <eos>
+2019-10-18 19:03:33,828 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 75.
+2019-10-18 19:03:33,829 (decoders:536) INFO: max output length: 75
+2019-10-18 19:03:33,829 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:33,829 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:33,829 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:34,712 (asr_utils:594) INFO: groundtruth: sil b iy f aa r th er z sil d ih z ih sil z ae m sil r iy v y uw eh v r iy f aa r m y ih l ah sil
+2019-10-18 19:03:34,713 (asr_utils:595) INFO: prediction :  biyfaartherihz dihzih gzaem biyvyuwehrviyfaarnyahlaa <eos>
+2019-10-18 19:03:34,890 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 46.
+2019-10-18 19:03:34,891 (decoders:536) INFO: max output length: 46
+2019-10-18 19:03:34,891 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:34,891 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:34,891 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:35,285 (asr_utils:594) INFO: groundtruth: sil dh ey ih n sil jh oy ih w ih n ay aa sil d ih sh ih n sil
+2019-10-18 19:03:35,285 (asr_utils:595) INFO: prediction :  beyihn jhoyihwihnayaa dihshihn <eos>
+2019-10-18 19:03:35,589 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 80.
+2019-10-18 19:03:35,589 (decoders:536) INFO: max output length: 80
+2019-10-18 19:03:35,589 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:35,590 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:35,590 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:36,599 (asr_utils:594) INFO: groundtruth: sil jh eh f th aa y uw aa r sil g y uw sil d ih n f ey v er ah v ih s ih n sil t er f y uw sil jh sil p er sil ch ih s sil
+2019-10-18 19:03:36,599 (asr_utils:595) INFO: prediction :  jhehf taayuwaar dyuw dihnfeyverah bihsihn tihfyuw jh per jhihs <eos>
+2019-10-18 19:03:36,807 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 54.
+2019-10-18 19:03:36,808 (decoders:536) INFO: max output length: 54
+2019-10-18 19:03:36,808 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:36,808 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:36,808 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:37,342 (asr_utils:594) INFO: groundtruth: sil jh aa n sil k l iy n z sil sh eh l f ih sh f aa r ah l ih v ih ng sil
+2019-10-18 19:03:37,342 (asr_utils:595) INFO: prediction :  jhaan kliynzahshehlfihshfaarlihvihng <eos>
+2019-10-18 19:03:37,772 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 110.
+2019-10-18 19:03:37,773 (decoders:536) INFO: max output length: 110
+2019-10-18 19:03:37,773 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:37,773 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:37,773 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:38,995 (asr_utils:594) INFO: groundtruth: sil hh ah s sil k iy y ah ng m ae n hh iy s eh sil sil w ih dh sil m aa sil sil d ih s sil t ey s sil t sil
+2019-10-18 19:03:38,995 (asr_utils:595) INFO: prediction :  hhaws kiyyahnmaenhhiysae wahth maa  dihs teys s <eos>
+2019-10-18 19:03:39,443 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 115.
+2019-10-18 19:03:39,444 (decoders:536) INFO: max output length: 115
+2019-10-18 19:03:39,444 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:39,444 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:39,444 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:40,564 (asr_utils:594) INFO: groundtruth: sil aa hh aa hh iy th aa sil ey sil l ah sh sil d ih v aa r s iy sil ae l ae s sil t sil
+2019-10-18 19:03:40,564 (asr_utils:595) INFO: prediction :  hhayhhayfhhiythzaa ey laash dahvaaahsiy aevlays t <eos>
+2019-10-18 19:03:41,250 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 186.
+2019-10-18 19:03:41,251 (decoders:536) INFO: max output length: 186
+2019-10-18 19:03:41,251 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:41,251 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:41,251 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:44,833 (asr_utils:594) INFO: groundtruth: sil dh ah s sil t eh sil n ih sil k l ah f ih sh ih n s iy ih z ah sil ch iy v sil ae sil dh iy ih sil k s sil p eh n sil t s ah v ae sil ch uw ah l ih sil k s sil p ih r iy ih n sil t s sil
+2019-10-18 19:03:44,833 (asr_utils:595) INFO: prediction :  faas tae nah kowahfihshahnseyihzah cheyv d ae thiyih ks paen sahvae chuwaaley ks pehriyihn ts <eos>
+2019-10-18 19:03:45,091 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 68.
+2019-10-18 19:03:45,091 (decoders:536) INFO: max output length: 68
+2019-10-18 19:03:45,091 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:45,092 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:45,092 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:45,761 (asr_utils:594) INFO: groundtruth: sil aa sil jh ih sil s sil m ey dx ah v sil p y uw dx er r er sil b y uw dx ah f uh l sil
+2019-10-18 19:03:45,761 (asr_utils:595) INFO: prediction :  aa jhih ks meydxah pihldxer biylahdxahfowm <eos>
+2019-10-18 19:03:46,172 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 111.
+2019-10-18 19:03:46,173 (decoders:536) INFO: max output length: 111
+2019-10-18 19:03:46,173 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:46,173 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:46,173 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:47,470 (asr_utils:594) INFO: groundtruth: sil dh ih m aa n iy ng sil d uw ah n dh uh s sil p ay dx ih w eh sil sil g l ih s ih n sil d ah sil ih n dh ah s ah n sil
+2019-10-18 19:03:47,470 (asr_utils:595) INFO: prediction :  dhahmaanihng gihaanmahs paydxahweh  glehsihm dah ihndhahsaan <eos>
+2019-10-18 19:03:47,871 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 105.
+2019-10-18 19:03:47,872 (decoders:536) INFO: max output length: 105
+2019-10-18 19:03:47,872 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:47,872 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:47,872 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:48,952 (asr_utils:594) INFO: groundtruth: sil ch iy sil s sil t aa sil k iy ng z sil r ah n dh ah f er s sil t ay m dh eh r w aa ah n sil
+2019-10-18 19:03:48,952 (asr_utils:595) INFO: prediction :  chiy ps taa kiyngz raandhahfehs taymdhehrmaan <eos>
+2019-10-18 19:03:49,328 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 101.
+2019-10-18 19:03:49,329 (decoders:536) INFO: max output length: 101
+2019-10-18 19:03:49,329 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:49,329 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:49,329 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:50,132 (asr_utils:594) INFO: groundtruth: sil d ow n d uw sil ch ae l iy z sil d er dx iy sil d ih sh ih z sil
+2019-10-18 19:03:50,133 (asr_utils:595) INFO: prediction :  dawn duw chaeliys gehdxiy dihshihz <eos>
+2019-10-18 19:03:50,492 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 96.
+2019-10-18 19:03:50,493 (decoders:536) INFO: max output length: 96
+2019-10-18 19:03:50,493 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:50,493 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:50,493 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:51,366 (asr_utils:594) INFO: groundtruth: sil k ae l s iy ih m ey sil s sil sil b ow n z ih n sil t iy th s sil t r aa ng sil
+2019-10-18 19:03:51,366 (asr_utils:595) INFO: prediction :  kawlsiyihmmey s nownsihn tiys traan <eos>
+2019-10-18 19:03:51,609 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 64.
+2019-10-18 19:03:51,609 (decoders:536) INFO: max output length: 64
+2019-10-18 19:03:51,609 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:51,609 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:51,609 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:52,266 (asr_utils:594) INFO: groundtruth: sil p ow ah sil s sil m aa r ow v er sil d w eh l aa n hh y uw m ah n sil p ae sh n z sil
+2019-10-18 19:03:52,266 (asr_utils:595) INFO: prediction :  pahlih snaarlver dahwahlayhhiynihn paeshnz <eos>
+2019-10-18 19:03:52,634 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 98.
+2019-10-18 19:03:52,634 (decoders:536) INFO: max output length: 98
+2019-10-18 19:03:52,634 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:52,634 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:52,634 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:54,001 (asr_utils:594) INFO: groundtruth: sil ih w ah z n aa dx ih sil z ae sil k l ih sil p ae n ih sil k dh ey sil g ey v w ey sil t uw sil b ah sil dh ey sil k ih sil n aa sil jh ih s ih sil dh eh er sil
+2019-10-18 19:03:54,001 (asr_utils:595) INFO: prediction :  hhihwihznay zay lih kaenih dhhey geyvwey tuw bah bey kih naa jhihsih gehr <eos>
+2019-10-18 19:03:54,259 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 68.
+2019-10-18 19:03:54,260 (decoders:536) INFO: max output length: 68
+2019-10-18 19:03:54,260 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:54,260 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:54,260 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:55,011 (asr_utils:594) INFO: groundtruth: sil hh w iy sil k eh n sil d ay sil t uw w iy sil k n d ay l ay sil k r ih l sil p iy sil p l sil
+2019-10-18 19:03:55,011 (asr_utils:595) INFO: prediction :  wiy kihn day tuwriy kn daylay kriyl piy pl <eos>
+2019-10-18 19:03:55,289 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 74.
+2019-10-18 19:03:55,289 (decoders:536) INFO: max output length: 74
+2019-10-18 19:03:55,289 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:55,290 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:55,290 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:56,243 (asr_utils:594) INFO: groundtruth: sil dh ih sil k l ah m z iy sil k ah s sil m er s sil p ih l s ah m ih sil k s sil p eh n s ih v sil p er f y uw m sil
+2019-10-18 19:03:56,244 (asr_utils:595) INFO: prediction :  dhih plihnsih kehs mers bihlahzihnih ks pehnsihth perfyuwm <eos>
+2019-10-18 19:03:56,478 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 62.
+2019-10-18 19:03:56,479 (decoders:536) INFO: max output length: 62
+2019-10-18 19:03:56,479 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:56,479 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:56,479 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:57,033 (asr_utils:594) INFO: groundtruth: sil dh ih v y uw sil p oy n t ow v er l uh sil k dh iy ow sh ih n sil
+2019-10-18 19:03:57,034 (asr_utils:595) INFO: prediction :  dihhhyuw poyn dowlvrihlah piyihshn <eos>
+2019-10-18 19:03:57,267 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 62.
+2019-10-18 19:03:57,268 (decoders:536) INFO: max output length: 62
+2019-10-18 19:03:57,268 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:57,268 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:57,268 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:57,925 (asr_utils:594) INFO: groundtruth: sil p l iy z sil d ih sil m ay sil p ah sil t ey dx ow z ah sil b iy f aa r f r aa s sil t sil
+2019-10-18 19:03:57,925 (asr_utils:595) INFO: prediction :  pliys tey maa pih teydxahzah biyfaarfraas t <eos>
+2019-10-18 19:03:58,170 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 62.
+2019-10-18 19:03:58,171 (decoders:536) INFO: max output length: 62
+2019-10-18 19:03:58,171 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:58,171 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:58,171 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:58,867 (asr_utils:594) INFO: groundtruth: sil ay sil d r ay sil dh ih s ah sil b w ey sil b ah dx ay hh ae v ah n t ih n ah f sil ch ey n sil jh sil
+2019-10-18 19:03:58,867 (asr_utils:595) INFO: prediction :  ay draa dhihsah bwey bawnhhaevihndihnahf cheyn jh <eos>
+2019-10-18 19:03:59,111 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 65.
+2019-10-18 19:03:59,111 (decoders:536) INFO: max output length: 65
+2019-10-18 19:03:59,111 (decoders:537) INFO: min output length: 0
+2019-10-18 19:03:59,111 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:03:59,111 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:03:59,839 (asr_utils:594) INFO: groundtruth: sil g r ae n m ah dh er aw sil g r uw hh er ah sil b r iy ng iy ng ih n sil p eh dx ih sil k ow sil t s sil
+2019-10-18 19:03:59,839 (asr_utils:595) INFO: prediction :  grehnahdheraw gruwhherreh prihniynihn pehnih keh ts <eos>
+2019-10-18 19:04:00,300 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 125.
+2019-10-18 19:04:00,301 (decoders:536) INFO: max output length: 125
+2019-10-18 19:04:00,301 (decoders:537) INFO: min output length: 0
+2019-10-18 19:04:00,302 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:04:00,302 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:04:02,212 (asr_utils:594) INFO: groundtruth: sil l ih v ih ng ih n ih sh eh l sil t uh dh uh r ey dx iy ow ae sil t ih v ih dx iy ah v f aa l aw sil d ih sil k ey z r ae sil p ih sil l iy ae sil f er s sil t sil
+2019-10-18 19:04:02,212 (asr_utils:595) INFO: prediction :  dhihviyngihnihshehl dherdhihmeydxiylae tuwrihdxiyahfaalaw dhih keyzvrae pah liyeh tfaars t <eos>
+2019-10-18 19:04:02,427 (decoders:510) INFO: Number of Encoder:1; enc1: input lengths: 60.
+2019-10-18 19:04:02,428 (decoders:536) INFO: max output length: 60
+2019-10-18 19:04:02,428 (decoders:537) INFO: min output length: 0
+2019-10-18 19:04:02,428 (decoders:567) INFO: <sos> index: 41
+2019-10-18 19:04:02,428 (decoders:568) INFO: <sos> mark: <eos>
+2019-10-18 19:04:02,867 (asr_utils:594) INFO: groundtruth: sil ah sil b aw sil d aa n hh iy sil g aa dx ah sil t ih sil b l ow sil
+2019-10-18 19:04:02,867 (asr_utils:595) INFO: prediction :  baw daanhhiy gaydxah tih blow <eos>
+# Accounting: time=71 threads=1
+# Ended (code 0) at Fri Oct 18 19:04:03 IST 2019, elapsed time 71 seconds

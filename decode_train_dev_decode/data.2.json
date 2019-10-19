@@ -1,0 +1,954 @@
+{
+    "utts": {
+        "FDRW0_SI653": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " showliyvihsihzahriyawdxihyuwwiyaalih naylih jh <eos>",
+                    "rec_token": "<space> sh ow l iy v ih s ih z ah r iy aw dx ih y uw w iy aa l ih <space> n ay l ih <space> jh <space> <eos>",
+                    "rec_tokenid": "2 32 27 23 20 37 19 31 19 40 5 30 20 6 12 19 39 36 38 20 3 23 19 2 25 7 23 19 2 21 2 41",
+                    "score": -9.960262298583984,
+                    "shape": [
+                        31,
+                        42
+                    ],
+                    "text": "sil sh uh l iy dh ih s ih z ih r iy ae l ih dx iy w iy aa l ih sil n aa l ih sil jh sil",
+                    "token": "<space> sh uh l iy dh ih s ih z ih r iy ae l ih dx iy w iy aa l ih <space> n aa l ih <space> jh <space>",
+                    "tokenid": "2 32 35 23 20 11 19 31 19 40 19 30 20 4 23 19 12 20 38 20 3 23 19 2 25 3 23 19 2 21 2"
+                }
+            ],
+            "utt2spk": "FDRW0"
+        },
+        "FDRW0_SX113": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " ihmahs kyihlaeae dahmihn ihz guh dfriyyuw bae k <eos>",
+                    "rec_token": "<space> ih m ah s <space> k y ih l ae ae <space> d ah m ih n <space> ih z <space> g uh <space> d f r iy y uw <space> b ae <space> k <space> <eos>",
+                    "rec_tokenid": "2 19 24 5 31 2 22 39 19 23 4 4 2 10 5 24 19 25 2 19 40 2 17 35 2 10 16 30 20 39 36 2 8 4 2 22 2 41",
+                    "score": -11.505922317504883,
+                    "shape": [
+                        36,
+                        42
+                    ],
+                    "text": "sil ey m ah s sil k y ih l ah ae sil d ih m ih n sil ih z sil g uh sil d f er y er sil b ae sil k sil",
+                    "token": "<space> ey m ah s <space> k y ih l ah ae <space> d ih m ih n <space> ih z <space> g uh <space> d f er y er <space> b ae <space> k <space>",
+                    "tokenid": "2 15 24 5 31 2 22 39 19 23 5 4 2 10 19 24 19 25 2 19 40 2 17 35 2 10 16 14 39 14 2 8 4 2 22 2"
+                }
+            ],
+            "utt2spk": "FDRW0"
+        },
+        "FDRW0_SX203": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " dhah kaazweyehndihdxih brah pliy ae dhihshihlaa <eos>",
+                    "rec_token": "<space> dh ah <space> k aa z w ey eh n d ih dx ih <space> b r ah <space> p l iy <space> ae <space> dh ih sh ih l aa <space> <eos>",
+                    "rec_tokenid": "2 11 5 2 22 3 40 38 15 13 25 10 19 12 19 2 8 30 5 2 29 23 20 2 4 2 11 19 32 19 23 3 2 41",
+                    "score": -7.150874137878418,
+                    "shape": [
+                        33,
+                        42
+                    ],
+                    "text": "sil dh ih sil k aa z w ey eh n d ih sil d ih sil b r ah sil p l iy sil ae sil dh ih sh ow ah sil",
+                    "token": "<space> dh ih <space> k aa z w ey eh n d ih <space> d ih <space> b r ah <space> p l iy <space> ae <space> dh ih sh ow ah <space>",
+                    "tokenid": "2 11 19 2 22 3 40 38 15 13 25 10 19 2 10 19 2 8 30 5 2 29 23 20 2 4 2 11 19 32 27 5 2"
+                }
+            ],
+            "utt2spk": "FDRW0"
+        },
+        "FDRW0_SX23": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " dowznuwzihshihnzaamihnayihzmaavahlahsliy <eos>",
+                    "rec_token": "<space> d ow z n uw z ih sh ih n z aa m ih n ay ih z m aa v ah l ah s l iy <space> <eos>",
+                    "rec_tokenid": "2 10 27 40 25 36 40 19 32 19 25 40 3 24 19 25 7 19 40 24 3 37 5 23 5 31 23 20 2 41",
+                    "score": -7.52742338180542,
+                    "shape": [
+                        29,
+                        42
+                    ],
+                    "text": "sil dh ow z m uw z ih sh ih n z hh aa m ih n ay z m aa v ah l ih s l iy sil",
+                    "token": "<space> dh ow z m uw z ih sh ih n z hh aa m ih n ay z m aa v ah l ih s l iy <space>",
+                    "tokenid": "2 11 27 40 24 36 40 19 32 19 25 40 18 3 24 19 25 7 40 24 3 37 5 23 19 31 23 20 2"
+                }
+            ],
+            "utt2spk": "FDRW0"
+        },
+        "FDRW0_SX293": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " kliys tey dhihz dehrdxiy tey bah klaa tihdhih kliynihzfermiy <eos>",
+                    "rec_token": "<space> k l iy s <space> t ey <space> dh ih z <space> d eh r dx iy <space> t ey <space> b ah <space> k l aa <space> t ih dh ih <space> k l iy n ih z f er m iy <space> <eos>",
+                    "rec_tokenid": "2 22 23 20 31 2 33 15 2 11 19 40 2 10 13 30 12 20 2 33 15 2 8 5 2 22 23 3 2 33 19 11 19 2 22 23 20 25 19 40 16 14 24 20 2 41",
+                    "score": -6.520964622497559,
+                    "shape": [
+                        44,
+                        42
+                    ],
+                    "text": "sil p l iy z sil t ey sil dh ih s sil d er dx iy sil t ey sil b ah sil k l aa sil t ih dh ih sil k l iy n ih z f er m iy sil",
+                    "token": "<space> p l iy z <space> t ey <space> dh ih s <space> d er dx iy <space> t ey <space> b ah <space> k l aa <space> t ih dh ih <space> k l iy n ih z f er m iy <space>",
+                    "tokenid": "2 29 23 20 40 2 33 15 2 11 19 31 2 10 14 12 20 2 33 15 2 8 5 2 22 23 3 2 33 19 11 19 2 22 23 20 25 19 40 16 14 24 20 2"
+                }
+            ],
+            "utt2spk": "FDRW0"
+        },
+        "FDRW0_SX383": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " dhih kaa pih kliynershaem puwdxaaaaaarihehnahraw d <eos>",
+                    "rec_token": "<space> dh ih <space> k aa <space> p ih <space> k l iy n er sh ae m <space> p uw dx aa aa aa r ih eh n ah r aw <space> d <space> <eos>",
+                    "rec_tokenid": "2 11 19 2 22 3 2 29 19 2 22 23 20 25 14 32 4 24 2 29 36 12 3 3 3 30 19 13 25 5 30 6 2 10 2 41",
+                    "score": -11.589058876037598,
+                    "shape": [
+                        35,
+                        42
+                    ],
+                    "text": "sil dh ih sil k aa sil p ih sil k l iy n ih sh ae m sil p uw dx aa aa r iy eh n ah l r ah sil g sil",
+                    "token": "<space> dh ih <space> k aa <space> p ih <space> k l iy n ih sh ae m <space> p uw dx aa aa r iy eh n ah l r ah <space> g <space>",
+                    "tokenid": "2 11 19 2 22 3 2 29 19 2 22 23 20 25 19 32 4 24 2 29 36 12 3 3 30 20 13 25 5 23 30 5 2 17 2"
+                }
+            ],
+            "utt2spk": "FDRW0"
+        },
+        "FEDW0_SI1084": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " dah beyngwih  mey biy bahfaarmeyshahnahveyshey frahm wih ch powdhihshey dziyvaaf <eos>",
+                    "rec_token": "<space> d ah <space> b ey ng w ih <space> <space> m ey <space> b iy <space> b ah f aa r m ey sh ah n ah v ey sh ey <space> f r ah m <space> w ih <space> ch <space> p ow dh ih sh ey <space> d z iy v aa f <space> <eos>",
+                    "rec_tokenid": "2 10 5 2 8 15 26 38 19 2 2 24 15 2 8 20 2 8 5 16 3 30 24 15 32 5 25 5 37 15 32 15 2 16 30 5 24 2 38 19 2 9 2 29 27 11 19 32 15 2 10 40 20 37 3 16 2 41",
+                    "score": -24.52610206604004,
+                    "shape": [
+                        50,
+                        42
+                    ],
+                    "text": "sil dh ah th iy m hh sil m ey sil b iy dh ah f aa r m ey sh ah n ah v ey sh ey sil f er m sil w ih sil ch ah dh ih sh ey sil p s iy v aa v sil",
+                    "token": "<space> dh ah th iy m hh <space> m ey <space> b iy dh ah f aa r m ey sh ah n ah v ey sh ey <space> f er m <space> w ih <space> ch ah dh ih sh ey <space> p s iy v aa v <space>",
+                    "tokenid": "2 11 5 34 20 24 18 2 24 15 2 8 20 11 5 16 3 30 24 15 32 5 25 5 37 15 32 15 2 16 14 24 2 38 19 2 9 5 11 19 32 15 2 29 31 20 37 3 37 2"
+                }
+            ],
+            "utt2spk": "FEDW0"
+        },
+        "FEDW0_SI1653": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " hhiys paa ksowdhihng liy <eos>",
+                    "rec_token": "<space> hh iy s <space> p aa <space> k s ow dh ih ng <space> l iy <space> <eos>",
+                    "rec_tokenid": "2 18 20 31 2 29 3 2 22 31 27 11 19 26 2 23 20 2 41",
+                    "score": -5.1159820556640625,
+                    "shape": [
+                        16,
+                        42
+                    ],
+                    "text": "sil hh iy s sil ow sil k s uw dh ih ng l iy sil",
+                    "token": "<space> hh iy s <space> ow <space> k s uw dh ih ng l iy <space>",
+                    "tokenid": "2 18 20 31 2 27 2 22 31 36 11 19 26 23 20 2"
+                }
+            ],
+            "utt2spk": "FEDW0"
+        },
+        "FEDW0_SI1714": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " hhiherz werahvlaa k wihnaangahliys teh piyihn <eos>",
+                    "rec_token": "<space> hh ih er z <space> w er ah v l aa <space> k <space> w ih n aa ng ah l iy s <space> t eh <space> p iy ih n <space> <eos>",
+                    "rec_tokenid": "2 18 19 14 40 2 38 14 5 37 23 3 2 22 2 38 19 25 3 26 5 23 20 31 2 33 13 2 29 20 19 25 2 41",
+                    "score": -14.417999267578125,
+                    "shape": [
+                        33,
+                        42
+                    ],
+                    "text": "sil hh iy er z hh w er l ah sil k sil w uh sil n aa r m ah l iy s sil t eh sil p ih ih n sil",
+                    "token": "<space> hh iy er z hh w er l ah <space> k <space> w uh <space> n aa r m ah l iy s <space> t eh <space> p ih ih n <space>",
+                    "tokenid": "2 18 20 14 40 18 38 14 23 5 2 22 2 38 35 2 25 3 30 24 5 23 20 31 2 33 13 2 29 19 19 25 2"
+                }
+            ],
+            "utt2spk": "FEDW0"
+        },
+        "FEDW0_SX184": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " dhey kae s miynyaaaaweyzhheriy s may yiherz <eos>",
+                    "rec_token": "<space> dh ey <space> k ae <space> s <space> m iy n y aa aa w ey z hh er iy <space> s <space> m ay <space> y ih er z <space> <eos>",
+                    "rec_tokenid": "2 11 15 2 22 4 2 31 2 24 20 25 39 3 3 38 15 40 18 14 20 2 31 2 24 7 2 39 19 14 40 2 41",
+                    "score": -13.914812088012695,
+                    "shape": [
+                        28,
+                        42
+                    ],
+                    "text": "sil dh ih sil k ae sil s m iy y aw aa l w iy z hh er sil s sil m ay iy er z sil",
+                    "token": "<space> dh ih <space> k ae <space> s m iy y aw aa l w iy z hh er <space> s <space> m ay iy er z <space>",
+                    "tokenid": "2 11 19 2 22 4 2 31 24 20 39 6 3 23 38 20 40 18 14 2 31 2 24 7 20 14 40 2"
+                }
+            ],
+            "utt2spk": "FEDW0"
+        },
+        "FEDW0_SX274": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " klaef wahsuwz baa dahlah chihrihs mahsaa jh <eos>",
+                    "rec_token": "<space> k l ae f <space> w ah s uw z <space> b aa <space> d ah l ah <space> ch ih r ih s <space> m ah s aa <space> jh <space> <eos>",
+                    "rec_tokenid": "2 22 23 4 16 2 38 5 31 36 40 2 8 3 2 10 5 23 5 2 9 19 30 19 31 2 24 5 31 3 2 21 2 41",
+                    "score": -11.560281753540039,
+                    "shape": [
+                        33,
+                        42
+                    ],
+                    "text": "sil k l ih f w ah s uw dh sil b ay dh ah l ah sil g sh uw r ih ih s sil m ah s aa sil jh sil",
+                    "token": "<space> k l ih f w ah s uw dh <space> b ay dh ah l ah <space> g sh uw r ih ih s <space> m ah s aa <space> jh <space>",
+                    "tokenid": "2 22 23 19 16 38 5 31 36 11 2 8 7 11 5 23 5 2 17 32 36 30 19 19 31 2 24 5 31 3 2 21 2"
+                }
+            ],
+            "utt2spk": "FEDW0"
+        },
+        "FEDW0_SX364": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " iy chahn taymliyihng kaamlaas kowihnsaydxih wih dhah brey dawnahveyhhiy dihngsihs tihm paa t <eos>",
+                    "rec_token": "<space> iy <space> ch ah n <space> t ay m l iy ih ng <space> k aa m l aa s <space> k ow ih n s ay dx ih <space> w ih <space> dh ah <space> b r ey <space> d aw n ah v ey hh iy <space> d ih ng s ih s <space> t ih m <space> p aa <space> t <space> <eos>",
+                    "rec_tokenid": "2 20 2 9 5 25 2 33 7 24 23 20 19 26 2 22 3 24 23 3 31 2 22 27 19 25 31 7 12 19 2 38 19 2 11 5 2 8 30 15 2 10 6 25 5 37 15 18 20 2 10 19 26 31 19 31 2 33 19 24 2 29 3 2 33 2 41",
+                    "score": -18.679004669189453,
+                    "shape": [
+                        65,
+                        42
+                    ],
+                    "text": "sil iy sil ch ah n sil t ay m l iy ih n sil k ah m l aa s sil k ow ih n s ay dx ih sil w ih th ah sil b r ey sil d aw n ah v ey hh iy dx ih ng s ih s sil t ih m sil p aa r sil t sil",
+                    "token": "<space> iy <space> ch ah n <space> t ay m l iy ih n <space> k ah m l aa s <space> k ow ih n s ay dx ih <space> w ih th ah <space> b r ey <space> d aw n ah v ey hh iy dx ih ng s ih s <space> t ih m <space> p aa r <space> t <space>",
+                    "tokenid": "2 20 2 9 5 25 2 33 7 24 23 20 19 25 2 22 5 24 23 3 31 2 22 27 19 25 31 7 12 19 2 38 19 34 5 2 8 30 15 2 10 6 25 5 37 15 18 20 12 19 26 31 19 31 2 33 19 24 2 29 3 30 2 33 2"
+                }
+            ],
+            "utt2spk": "FEDW0"
+        },
+        "FEDW0_SX4": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " jheymeyehernmaarmayniy bawwaar kihnhhaar t <eos>",
+                    "rec_token": "<space> jh ey m ey eh er n m aa r m ay n iy <space> b aw w aa r <space> k ih n hh aa r <space> t <space> <eos>",
+                    "rec_tokenid": "2 21 15 24 15 13 14 25 24 3 30 24 7 25 20 2 8 6 38 3 30 2 22 19 25 18 3 30 2 33 2 41",
+                    "score": -12.651098251342773,
+                    "shape": [
+                        29,
+                        42
+                    ],
+                    "text": "sil jh ey m ey er n m aa ah m ah n iy sil b ay w er sil k ih n hh aa r sil d sil",
+                    "token": "<space> jh ey m ey er n m aa ah m ah n iy <space> b ay w er <space> k ih n hh aa r <space> d <space>",
+                    "tokenid": "2 21 15 24 15 14 25 24 3 5 24 5 25 20 2 8 7 38 14 2 22 19 25 18 3 30 2 10 2"
+                }
+            ],
+            "utt2spk": "FEDW0"
+        },
+        "FEDW0_SX94": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " yaangs terihslowv kaamahn kaen diyihs triy s <eos>",
+                    "rec_token": "<space> y aa ng s <space> t er ih s l ow v <space> k aa m ah n <space> k ae n <space> d iy ih s <space> t r iy <space> s <space> <eos>",
+                    "rec_tokenid": "2 39 3 26 31 2 33 14 19 31 23 27 37 2 22 3 24 5 25 2 22 4 25 2 10 20 19 31 2 33 30 20 2 31 2 41",
+                    "score": -8.689741134643555,
+                    "shape": [
+                        35,
+                        42
+                    ],
+                    "text": "sil y ah ng g s sil t er z l ah v sil k aa m ah n sil k ae n sil d iy eh z sil t r iy sil s sil",
+                    "token": "<space> y ah ng g s <space> t er z l ah v <space> k aa m ah n <space> k ae n <space> d iy eh z <space> t r iy <space> s <space>",
+                    "tokenid": "2 39 5 26 17 31 2 33 14 40 23 5 37 2 22 3 24 5 25 2 22 4 25 2 10 20 13 40 2 33 30 20 2 31 2"
+                }
+            ],
+            "utt2spk": "FEDW0"
+        },
+        "FGJD0_SI1179": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " wah shahdhiyzihfeh ks biy <eos>",
+                    "rec_token": "<space> w ah <space> sh ah dh iy z ih f eh <space> k s <space> b iy <space> <eos>",
+                    "rec_tokenid": "2 38 5 2 32 5 11 20 40 19 16 13 2 22 31 2 8 20 2 41",
+                    "score": -3.733036518096924,
+                    "shape": [
+                        22,
+                        42
+                    ],
+                    "text": "sil hh w ah sil sh eh l dh iy z ih f eh sil k s sil b iy hh sil",
+                    "token": "<space> hh w ah <space> sh eh l dh iy z ih f eh <space> k s <space> b iy hh <space>",
+                    "tokenid": "2 18 38 5 2 32 13 23 11 20 40 19 16 13 2 22 31 2 8 20 18 2"
+                }
+            ],
+            "utt2spk": "FGJD0"
+        },
+        "FGJD0_SI549": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " dheys prow gerihnzihm tihsayziy kseh tihnsdhahv bayreyshl kwaes erihns piys pliy <eos>",
+                    "rec_token": "<space> dh ey s <space> p r ow <space> g er ih n z ih m <space> t ih s ay z iy <space> k s eh <space> t ih n s dh ah v <space> b ay r ey sh l <space> k w ae s <space> er ih n s <space> p iy s <space> p l iy <space> <eos>",
+                    "rec_tokenid": "2 11 15 31 2 29 30 27 2 17 14 19 25 40 19 24 2 33 19 31 7 40 20 2 22 31 13 2 33 19 25 31 11 5 37 2 8 7 30 15 32 23 2 22 38 4 31 2 14 19 25 31 2 29 20 31 2 29 23 20 2 41",
+                    "score": -16.182422637939453,
+                    "shape": [
+                        60,
+                        42
+                    ],
+                    "text": "sil dh iy z sil p r ow sil r er m z ih m f ih s ay z dh iy ih sil k s eh sil t ih n s ah v sil b ay r ey sh l sil k l ae s sil r uw m z sil p iy s f l l iy sil",
+                    "token": "<space> dh iy z <space> p r ow <space> r er m z ih m f ih s ay z dh iy ih <space> k s eh <space> t ih n s ah v <space> b ay r ey sh l <space> k l ae s <space> r uw m z <space> p iy s f l l iy <space>",
+                    "tokenid": "2 11 20 40 2 29 30 27 2 30 14 24 40 19 24 16 19 31 7 40 11 20 19 2 22 31 13 2 33 19 25 31 5 37 2 8 7 30 15 32 23 2 22 23 4 31 2 30 36 24 40 2 29 20 31 16 23 23 20 2"
+                }
+            ],
+            "utt2spk": "FGJD0"
+        },
+        "FGJD0_SI818": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " bownzihng kaarlih ch trehnz mih taarliy ehn tehn tihrihfleh kihahl tersaanih ksih mnls <eos>",
+                    "rec_token": "<space> b ow n z ih ng <space> k aa r l ih <space> ch <space> t r eh n z <space> m ih <space> t aa r l iy <space> eh n <space> t eh n <space> t ih r ih f l eh <space> k ih ah l <space> t er s aa n ih <space> k s ih <space> m n l s <space> <eos>",
+                    "rec_tokenid": "2 8 27 25 40 19 26 2 22 3 30 23 19 2 9 2 33 30 13 25 40 2 24 19 2 33 3 30 23 20 2 13 25 2 33 13 25 2 33 19 30 19 16 23 13 2 22 19 5 23 2 33 14 31 3 25 19 2 22 31 19 2 24 25 23 31 2 41",
+                    "score": -16.227596282958984,
+                    "shape": [
+                        66,
+                        42
+                    ],
+                    "text": "sil b ow n z ih n sil k aa r l ih sil jh sil t r ae n z m ih sil p aa r l iy sil ih n sil t eh n sil t uw r ih f l eh sil dh ah ah l sil t er s aa n ih sil k s ih sil n ah l z sil",
+                    "token": "<space> b ow n z ih n <space> k aa r l ih <space> jh <space> t r ae n z m ih <space> p aa r l iy <space> ih n <space> t eh n <space> t uw r ih f l eh <space> dh ah ah l <space> t er s aa n ih <space> k s ih <space> n ah l z <space>",
+                    "tokenid": "2 8 27 25 40 19 25 2 22 3 30 23 19 2 21 2 33 30 4 25 40 24 19 2 29 3 30 23 20 2 19 25 2 33 13 25 2 33 36 30 19 16 23 13 2 11 5 5 23 2 33 14 31 3 25 19 2 22 31 19 2 25 5 23 40 2"
+                }
+            ],
+            "utt2spk": "FGJD0"
+        },
+        "FGJD0_SX189": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " dihs troyehriyfaarihleynih tihmayaadxih ts <eos>",
+                    "rec_token": "<space> d ih s <space> t r oy eh r iy f aa r ih l ey n ih <space> t ih m ay aa dx ih <space> t s <space> <eos>",
+                    "rec_tokenid": "2 10 19 31 2 33 30 28 13 30 20 16 3 30 19 23 15 25 19 2 33 19 24 7 3 12 19 2 33 31 2 41",
+                    "score": -7.730473041534424,
+                    "shape": [
+                        33,
+                        42
+                    ],
+                    "text": "sil d ih s sil t r oy eh v r iy f ay l r ih l ey dx ih sil t uw m ay aa sil d ih sil s sil",
+                    "token": "<space> d ih s <space> t r oy eh v r iy f ay l r ih l ey dx ih <space> t uw m ay aa <space> d ih <space> s <space>",
+                    "tokenid": "2 10 19 31 2 33 30 28 13 37 30 20 16 7 23 30 19 23 15 12 19 2 33 36 24 7 3 2 10 19 2 31 2"
+                }
+            ],
+            "utt2spk": "FGJD0"
+        },
+        "FGJD0_SX279": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " awlsihzahvnowl tiy chahwer kwih dawnsih pervihshihnihznowwaardhiy <eos>",
+                    "rec_token": "<space> aw l s ih z ah v n ow l <space> t iy <space> ch ah w er <space> k w ih <space> d aw n s ih <space> p er v ih sh ih n ih z n ow w aa r dh iy <space> <eos>",
+                    "rec_tokenid": "2 6 23 31 19 40 5 37 25 27 23 2 33 20 2 9 5 38 14 2 22 38 19 2 10 6 25 31 19 2 29 14 37 19 32 19 25 19 40 25 27 38 3 30 11 20 2 41",
+                    "score": -16.55525779724121,
+                    "shape": [
+                        47,
+                        42
+                    ],
+                    "text": "sil ae l s ih z ah sil b ih l ah sil t iy sil t ah w er sil k w ih th aw sil s uw sil p er v ih sh ih n ih z n ow sil w er dh iy sil",
+                    "token": "<space> ae l s ih z ah <space> b ih l ah <space> t iy <space> t ah w er <space> k w ih th aw <space> s uw <space> p er v ih sh ih n ih z n ow <space> w er dh iy <space>",
+                    "tokenid": "2 4 23 31 19 40 5 2 8 19 23 5 2 33 20 2 33 5 38 14 2 22 38 19 34 6 2 31 36 2 29 14 37 19 32 19 25 19 40 25 27 2 38 14 11 20 2"
+                }
+            ],
+            "utt2spk": "FGJD0"
+        },
+        "FGJD0_SX369": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " baa pey perdxowwihzahlehvihngerihmniherlz <eos>",
+                    "rec_token": "<space> b aa <space> p ey <space> p er dx ow w ih z ah l eh v ih ng er ih m n ih er l z <space> <eos>",
+                    "rec_tokenid": "2 8 3 2 29 15 2 29 14 12 27 38 19 40 5 23 13 37 19 26 14 19 24 25 19 14 23 40 2 41",
+                    "score": -12.346900939941406,
+                    "shape": [
+                        30,
+                        42
+                    ],
+                    "text": "sil b aa sil p ey sil p er dx ow v ih dh ah l ih v iy n r uw m y uw r ah l z sil",
+                    "token": "<space> b aa <space> p ey <space> p er dx ow v ih dh ah l ih v iy n r uw m y uw r ah l z <space>",
+                    "tokenid": "2 8 3 2 29 15 2 29 14 12 27 37 19 11 5 23 19 37 20 25 30 36 24 39 36 30 5 23 40 2"
+                }
+            ],
+            "utt2spk": "FGJD0"
+        },
+        "FGJD0_SX9": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " hhweherweryuwhhaawiywerahwey <eos>",
+                    "rec_token": "<space> hh w eh er w er y uw hh aa w iy w er ah w ey <space> <eos>",
+                    "rec_tokenid": "2 18 38 13 14 38 14 39 36 18 3 38 20 38 14 5 38 15 2 41",
+                    "score": -7.011137008666992,
+                    "shape": [
+                        22,
+                        42
+                    ],
+                    "text": "sil hh w eh r w er sil y uw hh w aa l w iy w er ah w ey sil",
+                    "token": "<space> hh w eh r w er <space> y uw hh w aa l w iy w er ah w ey <space>",
+                    "tokenid": "2 18 38 13 30 38 14 2 39 36 18 38 3 23 38 20 38 14 5 38 15 2"
+                }
+            ],
+            "utt2spk": "FGJD0"
+        },
+        "FGJD0_SX99": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " nih diyvlsahsay diywihz beys ternhhayeraar kiys <eos>",
+                    "rec_token": "<space> n ih <space> d iy v l s ah s ay <space> d iy w ih z <space> b ey s <space> t er n hh ay er aa r <space> k iy s <space> <eos>",
+                    "rec_tokenid": "2 25 19 2 10 20 37 23 31 5 31 7 2 10 20 38 19 40 2 8 15 31 2 33 14 25 18 7 14 3 30 2 22 20 31 2 41",
+                    "score": -8.774432182312012,
+                    "shape": [
+                        36,
+                        42
+                    ],
+                    "text": "sil m ih sil d iy v l s ah s ay ih dx iy w ah z sil b ey s sil t aa n hh ay er aa r sil k iy z sil",
+                    "token": "<space> m ih <space> d iy v l s ah s ay ih dx iy w ah z <space> b ey s <space> t aa n hh ay er aa r <space> k iy z <space>",
+                    "tokenid": "2 24 19 2 10 20 37 23 31 5 31 7 19 12 20 38 5 40 2 8 15 31 2 33 3 25 18 7 14 3 30 2 22 20 40 2"
+                }
+            ],
+            "utt2spk": "FGJD0"
+        },
+        "FJEM0_SI1264": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " dhiyaen thihzaal tney wahthsahngwers pow kihnfersuwz <eos>",
+                    "rec_token": "<space> dh iy ae n <space> th ih z aa l <space> t n ey <space> w ah th s ah ng w er s <space> p ow <space> k ih n f er s uw z <space> <eos>",
+                    "rec_tokenid": "2 11 20 4 25 2 34 19 40 3 23 2 33 25 15 2 38 5 34 31 5 26 38 14 31 2 29 27 2 22 19 25 16 14 31 36 40 2 41",
+                    "score": -18.96399688720703,
+                    "shape": [
+                        38,
+                        42
+                    ],
+                    "text": "sil d ae n s ih z aa l sil t er n ey sil ah sil w ah th s ah ng er s sil p ow sil k ih n v er s ah z sil",
+                    "token": "<space> d ae n s ih z aa l <space> t er n ey <space> ah <space> w ah th s ah ng er s <space> p ow <space> k ih n v er s ah z <space>",
+                    "tokenid": "2 10 4 25 31 19 40 3 23 2 33 14 25 15 2 5 2 38 5 34 31 5 26 14 31 2 29 27 2 22 19 25 37 14 31 5 40 2"
+                }
+            ],
+            "utt2spk": "FJEM0"
+        },
+        "FJEM0_SI1894": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " mayfaadherraen yermaavhhihrsih kdhiyihzdhih gow <eos>",
+                    "rec_token": "<space> m ay f aa dh er r ae n <space> y er m aa v hh ih r s ih <space> k dh iy ih z dh ih <space> g ow <space> <eos>",
+                    "rec_tokenid": "2 24 7 16 3 11 14 30 4 25 2 39 14 24 3 37 18 19 30 31 19 2 22 11 20 19 40 11 19 2 17 27 2 41",
+                    "score": -12.212398529052734,
+                    "shape": [
+                        32,
+                        42
+                    ],
+                    "text": "sil m ay f aa dh er r ae n hh ih m aa f hh ih er s ih sil k s y ih er z ih sil g ow sil",
+                    "token": "<space> m ay f aa dh er r ae n hh ih m aa f hh ih er s ih <space> k s y ih er z ih <space> g ow <space>",
+                    "tokenid": "2 24 7 16 3 11 14 30 4 25 18 19 24 3 16 18 19 14 31 19 2 22 31 39 19 14 40 19 2 17 27 2"
+                }
+            ],
+            "utt2spk": "FJEM0"
+        },
+        "FJEM0_SI634": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " hhiyerhhihyuwz kweh fers weythihvliy dhihvehriyihm baadxihmhhihdxihvmiynihfihnslaynahs <eos>",
+                    "rec_token": "<space> hh iy er hh ih y uw z <space> k w eh <space> f er s <space> w ey th ih v l iy <space> dh ih v eh r iy ih m <space> b aa dx ih m hh ih dx ih v m iy n ih f ih n s l ay n ah s <space> <eos>",
+                    "rec_tokenid": "2 18 20 14 18 19 39 36 40 2 22 38 13 2 16 14 31 2 38 15 34 19 37 23 20 2 11 19 37 13 30 20 19 24 2 8 3 12 19 24 18 19 12 19 37 24 20 25 19 16 19 25 31 23 7 25 5 31 2 41",
+                    "score": -18.537044525146484,
+                    "shape": [
+                        54,
+                        42
+                    ],
+                    "text": "sil hh iy r hh iy ih z sil k w ay sil p er s w ey s ih v l iy sil dh ih v eh r iy ih m sil b aa dx ih m ih ih v m iy n eh s n s l ay n ah s sil",
+                    "token": "<space> hh iy r hh iy ih z <space> k w ay <space> p er s w ey s ih v l iy <space> dh ih v eh r iy ih m <space> b aa dx ih m ih ih v m iy n eh s n s l ay n ah s <space>",
+                    "tokenid": "2 18 20 30 18 20 19 40 2 22 38 7 2 29 14 31 38 15 31 19 37 23 20 2 11 19 37 13 30 20 19 24 2 8 3 12 19 24 19 19 37 24 20 25 13 31 25 31 23 7 25 5 31 2"
+                }
+            ],
+            "utt2spk": "FJEM0"
+        },
+        "FJEM0_SX184": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " dhih kae ts miyawaaweyzhher z mayiherz <eos>",
+                    "rec_token": "<space> dh ih <space> k ae <space> t s <space> m iy aw aa w ey z hh er <space> z <space> m ay ih er z <space> <eos>",
+                    "rec_tokenid": "2 11 19 2 22 4 2 33 31 2 24 20 6 3 38 15 40 18 14 2 40 2 24 7 19 14 40 2 41",
+                    "score": -10.220671653747559,
+                    "shape": [
+                        26,
+                        42
+                    ],
+                    "text": "sil dh ih sil k ae sil s m iy aw aa l w ey z hh er sil s m ay ih er z sil",
+                    "token": "<space> dh ih <space> k ae <space> s m iy aw aa l w ey z hh er <space> s m ay ih er z <space>",
+                    "tokenid": "2 11 19 2 22 4 2 31 24 20 6 3 23 38 15 40 18 14 2 31 24 7 19 14 40 2"
+                }
+            ],
+            "utt2spk": "FJEM0"
+        },
+        "FJEM0_SX274": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " klahflihsuwth baydxahlih ksheriyihs mahfaaz <eos>",
+                    "rec_token": "<space> k l ah f l ih s uw th <space> b ay dx ah l ih <space> k sh er iy ih s <space> m ah f aa z <space> <eos>",
+                    "rec_tokenid": "2 22 23 5 16 23 19 31 36 34 2 8 7 12 5 23 19 2 22 32 14 20 19 31 2 24 5 16 3 40 2 41",
+                    "score": -8.604692459106445,
+                    "shape": [
+                        31,
+                        42
+                    ],
+                    "text": "sil k l ih f w ah s uw dh sil b ay dh ah l ah sil k sh er r iy ih s m ah s aa sh sil",
+                    "token": "<space> k l ih f w ah s uw dh <space> b ay dh ah l ah <space> k sh er r iy ih s m ah s aa sh <space>",
+                    "tokenid": "2 22 23 19 16 38 5 31 36 11 2 8 7 11 5 23 5 2 22 32 14 30 20 19 31 24 5 31 3 32 2"
+                }
+            ],
+            "utt2spk": "FJEM0"
+        },
+        "FJEM0_SX364": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " iy chahn taymiyihn kahmlaaf kowahnsaydxih wihthah brey daanahvihhhiydxihngsihs tahm paar  <eos>",
+                    "rec_token": "<space> iy <space> ch ah n <space> t ay m iy ih n <space> k ah m l aa f <space> k ow ah n s ay dx ih <space> w ih th ah <space> b r ey <space> d aa n ah v ih hh iy dx ih ng s ih s <space> t ah m <space> p aa r <space> <space> <eos>",
+                    "rec_tokenid": "2 20 2 9 5 25 2 33 7 24 20 19 25 2 22 5 24 23 3 16 2 22 27 5 25 31 7 12 19 2 38 19 34 5 2 8 30 15 2 10 3 25 5 37 19 18 20 12 19 26 31 19 31 2 33 5 24 2 29 3 30 2 2 41",
+                    "score": -16.48167610168457,
+                    "shape": [
+                        65,
+                        42
+                    ],
+                    "text": "sil iy sil ch ah n sil t ay m l iy ih ng sil k ah m l aa s sil k ow ih n s ay dx ih sil w ih th ih sil b r ey sil d aw n ih v ih hh iy sil t ih ng s ih s sil t ah m sil p aa r sil sil",
+                    "token": "<space> iy <space> ch ah n <space> t ay m l iy ih ng <space> k ah m l aa s <space> k ow ih n s ay dx ih <space> w ih th ih <space> b r ey <space> d aw n ih v ih hh iy <space> t ih ng s ih s <space> t ah m <space> p aa r <space> <space>",
+                    "tokenid": "2 20 2 9 5 25 2 33 7 24 23 20 19 26 2 22 5 24 23 3 31 2 22 27 19 25 31 7 12 19 2 38 19 34 19 2 8 30 15 2 10 6 25 19 37 19 18 20 2 33 19 26 31 19 31 2 33 5 24 2 29 3 30 2 2"
+                }
+            ],
+            "utt2spk": "FJEM0"
+        },
+        "FJEM0_SX4": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " cheynleyerermaarmayniy baywer kiynahhhaaer  <eos>",
+                    "rec_token": "<space> ch ey n l ey er er m aa r m ay n iy <space> b ay w er <space> k iy n ah hh aa er <space> <space> <eos>",
+                    "rec_tokenid": "2 9 15 25 23 15 14 14 24 3 30 24 7 25 20 2 8 7 38 14 2 22 20 25 5 18 3 14 2 2 41",
+                    "score": -9.253692626953125,
+                    "shape": [
+                        29,
+                        42
+                    ],
+                    "text": "sil jh ey n m ey er n m aa r m ah n iy sil b ay w er sil k ih ng hh aa r sil sil",
+                    "token": "<space> jh ey n m ey er n m aa r m ah n iy <space> b ay w er <space> k ih ng hh aa r <space> <space>",
+                    "tokenid": "2 21 15 25 24 15 14 25 24 3 30 24 5 25 20 2 8 7 38 14 2 22 19 26 18 3 30 2 2"
+                }
+            ],
+            "utt2spk": "FJEM0"
+        },
+        "FJEM0_SX94": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " yahngs terzlowv kaamihn kaen diyahz triy ts <eos>",
+                    "rec_token": "<space> y ah ng s <space> t er z l ow v <space> k aa m ih n <space> k ae n <space> d iy ah z <space> t r iy <space> t s <space> <eos>",
+                    "rec_tokenid": "2 39 5 26 31 2 33 14 40 23 27 37 2 22 3 24 19 25 2 22 4 25 2 10 20 5 40 2 33 30 20 2 33 31 2 41",
+                    "score": -6.503131866455078,
+                    "shape": [
+                        35,
+                        42
+                    ],
+                    "text": "sil y ah ng s sil t er z l ah v sil k aa m ih n sil k ae n sil d iy eh z sil t r iy sil t s sil",
+                    "token": "<space> y ah ng s <space> t er z l ah v <space> k aa m ih n <space> k ae n <space> d iy eh z <space> t r iy <space> t s <space>",
+                    "tokenid": "2 39 5 26 31 2 33 14 40 23 5 37 2 22 3 24 19 25 2 22 4 25 2 10 20 13 40 2 33 30 20 2 33 31 2"
+                }
+            ],
+            "utt2spk": "FJEM0"
+        },
+        "FJMG0_SI1181": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " praa perliyyuwz dih prehsihm bow tihihzihnae kslihnihz tuwmehnehmihnlaynmeh  <eos>",
+                    "rec_token": "<space> p r aa <space> p er l iy y uw z <space> d ih <space> p r eh s ih m <space> b ow <space> t ih ih z ih n ae <space> k s l ih n ih z <space> t uw m eh n eh m ih n l ay n m eh <space> <space> <eos>",
+                    "rec_tokenid": "2 29 30 3 2 29 14 23 20 39 36 40 2 10 19 2 29 30 13 31 19 24 2 8 27 2 33 19 19 40 19 25 4 2 22 31 23 19 25 19 40 2 33 36 24 13 25 13 24 19 25 23 7 25 24 13 2 2 41",
+                    "score": -14.536236763000488,
+                    "shape": [
+                        58,
+                        42
+                    ],
+                    "text": "sil p r aa sil p er l iy y uw z sil d ih sil p r eh z ah n b uh sil k ih z ih n eh sil k s l ih n ih n s sil t er m ih n ah v eh n l aa n m ih n sil sil",
+                    "token": "<space> p r aa <space> p er l iy y uw z <space> d ih <space> p r eh z ah n b uh <space> k ih z ih n eh <space> k s l ih n ih n s <space> t er m ih n ah v eh n l aa n m ih n <space> <space>",
+                    "tokenid": "2 29 30 3 2 29 14 23 20 39 36 40 2 10 19 2 29 30 13 40 5 25 8 35 2 22 19 40 19 25 13 2 22 31 23 19 25 19 25 31 2 33 14 24 19 25 5 37 13 25 23 3 25 24 19 25 2 2"
+                }
+            ],
+            "utt2spk": "FJMG0"
+        },
+        "FJMG0_SI1811": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " raesahnleyhhihz wayer brehdxerseh brehs tahsliy <eos>",
+                    "rec_token": "<space> r ae s ah n l ey hh ih z <space> w ay er <space> b r eh dx er s eh <space> b r eh s <space> t ah s l iy <space> <eos>",
+                    "rec_tokenid": "2 30 4 31 5 25 23 15 18 19 40 2 38 7 14 2 8 30 13 12 14 31 13 2 8 30 13 31 2 33 5 31 23 20 2 41",
+                    "score": -7.944657325744629,
+                    "shape": [
+                        36,
+                        42
+                    ],
+                    "text": "sil p r eh z ah n l iy hh ih z sil w aa dx er sil b r ah dh er s eh sil b r eh th l ah s l iy sil",
+                    "token": "<space> p r eh z ah n l iy hh ih z <space> w aa dx er <space> b r ah dh er s eh <space> b r eh th l ah s l iy <space>",
+                    "tokenid": "2 29 30 13 40 5 25 23 20 18 19 40 2 38 3 12 14 2 8 30 5 11 14 31 13 2 8 30 13 34 23 5 31 23 20 2"
+                }
+            ],
+            "utt2spk": "FJMG0"
+        },
+        "FJMG0_SI551": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " ihzdhahmaedherahdhihnaw tihs piy chaal dih faal p <eos>",
+                    "rec_token": "<space> ih z dh ah m ae dh er ah dh ih n aw <space> t ih s <space> p iy <space> ch aa l <space> d ih <space> f aa l <space> p <space> <eos>",
+                    "rec_tokenid": "2 19 40 11 5 24 4 11 14 5 11 19 25 6 2 33 19 31 2 29 20 2 9 3 23 2 10 19 2 16 3 23 2 29 2 41",
+                    "score": -10.33718490600586,
+                    "shape": [
+                        35,
+                        42
+                    ],
+                    "text": "sil ih z dh ah m ah dh er ah v ih n aa sil t ih s sil t ih sil ch aa l sil d ih sil f aa l sil t sil",
+                    "token": "<space> ih z dh ah m ah dh er ah v ih n aa <space> t ih s <space> t ih <space> ch aa l <space> d ih <space> f aa l <space> t <space>",
+                    "tokenid": "2 19 40 11 5 24 5 11 14 5 37 19 25 3 2 33 19 31 2 33 19 2 9 3 23 2 10 19 2 16 3 23 2 33 2"
+                }
+            ],
+            "utt2spk": "FJMG0"
+        },
+        "FJMG0_SX101": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " kihnderlaar nshow drehn deh keray dher klaesrihmzferaalhhaalah deys <eos>",
+                    "rec_token": "<space> k ih n d er l aa r <space> n sh ow <space> d r eh n <space> d eh <space> k er ay <space> dh er <space> k l ae s r ih m z f er aa l hh aa l ah <space> d ey s <space> <eos>",
+                    "rec_tokenid": "2 22 19 25 10 14 23 3 30 2 25 32 27 2 10 30 13 25 2 10 13 2 22 14 7 2 11 14 2 22 23 4 31 30 19 24 40 16 14 3 23 18 3 23 5 2 10 15 31 2 41",
+                    "score": -13.16195297241211,
+                    "shape": [
+                        52,
+                        42
+                    ],
+                    "text": "sil k ih n d er sil aa r sil n ch ih l sil d r ih n sil d eh sil k er ey sil dh eh r sil k l ae s r uw m z f er aa l hh aa l ah sil d ey s sil",
+                    "token": "<space> k ih n d er <space> aa r <space> n ch ih l <space> d r ih n <space> d eh <space> k er ey <space> dh eh r <space> k l ae s r uw m z f er aa l hh aa l ah <space> d ey s <space>",
+                    "tokenid": "2 22 19 25 10 14 2 3 30 2 25 9 19 23 2 10 30 19 25 2 10 13 2 22 14 15 2 11 13 30 2 22 23 4 31 30 36 24 40 16 14 3 23 18 3 23 5 2 10 15 31 2"
+                }
+            ],
+            "utt2spk": "FJMG0"
+        },
+        "FJMG0_SX11": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " hhiywuhlawahlaw <eos>",
+                    "rec_token": "<space> hh iy w uh l aw ah l aw <space> <eos>",
+                    "rec_tokenid": "2 18 20 38 35 23 6 5 23 6 2 41",
+                    "score": -11.188665390014648,
+                    "shape": [
+                        16,
+                        42
+                    ],
+                    "text": "sil hh iy w ih l ah l aw ah r eh r l aa sil",
+                    "token": "<space> hh iy w ih l ah l aw ah r eh r l aa <space>",
+                    "tokenid": "2 18 20 38 19 23 5 23 6 5 30 13 30 23 3 2"
+                }
+            ],
+            "utt2spk": "FJMG0"
+        },
+        "FJMG0_SX191": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " wihs draaaalfawniyae kiyseyshihnzihvwahn s <eos>",
+                    "rec_token": "<space> w ih s <space> d r aa aa l f aw n iy ae <space> k iy s ey sh ih n z ih v w ah n <space> s <space> <eos>",
+                    "rec_tokenid": "2 38 19 31 2 10 30 3 3 23 16 6 25 20 4 2 22 20 31 15 32 19 25 40 19 37 38 5 25 2 31 2 41",
+                    "score": -9.547229766845703,
+                    "shape": [
+                        31,
+                        42
+                    ],
+                    "text": "sil w ih th sil d r aa aa l f ow n iy ae sil k y ih z ey sh ih n z ih w ah n s sil",
+                    "token": "<space> w ih th <space> d r aa aa l f ow n iy ae <space> k y ih z ey sh ih n z ih w ah n s <space>",
+                    "tokenid": "2 38 19 34 2 10 30 3 3 23 16 27 25 20 4 2 22 39 19 40 15 32 19 25 40 19 38 5 25 31 2"
+                }
+            ],
+            "utt2spk": "FJMG0"
+        },
+        "FJMG0_SX281": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " kaariyng trey jh pley tae wihth biy ch baalsferayers <eos>",
+                    "rec_token": "<space> k aa r iy ng <space> t r ey <space> jh <space> p l ey <space> t ae <space> w ih th <space> b iy <space> ch <space> b aa l s f er ay er s <space> <eos>",
+                    "rec_tokenid": "2 22 3 30 20 26 2 33 30 15 2 21 2 29 23 15 2 33 4 2 38 19 34 2 8 20 2 9 2 8 3 23 31 16 14 7 14 31 2 41",
+                    "score": -10.946544647216797,
+                    "shape": [
+                        40,
+                        42
+                    ],
+                    "text": "sil k aa r iy ih n sil t r ih sh sil p l ey sil t ae sil g w ih th sil b iy sil ch sil b aa l z f er aa er z sil",
+                    "token": "<space> k aa r iy ih n <space> t r ih sh <space> p l ey <space> t ae <space> g w ih th <space> b iy <space> ch <space> b aa l z f er aa er z <space>",
+                    "tokenid": "2 22 3 30 20 19 25 2 33 30 19 32 2 29 23 15 2 33 4 2 17 38 19 34 2 8 20 2 9 2 8 3 23 40 16 14 3 14 40 2"
+                }
+            ],
+            "utt2spk": "FJMG0"
+        },
+        "FJMG0_SX371": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " ray niyawmeynaa biy dhih behs tawnfer bihznihs maar jhers <eos>",
+                    "rec_token": "<space> r ay <space> n iy aw m ey n aa <space> b iy <space> dh ih <space> b eh s <space> t aw n f er <space> b ih z n ih s <space> m aa r <space> jh er s <space> <eos>",
+                    "rec_tokenid": "2 30 7 2 25 20 6 24 15 25 3 2 8 20 2 11 19 2 8 13 31 2 33 6 25 16 14 2 8 19 40 25 19 31 2 24 3 30 2 21 14 31 2 41",
+                    "score": -9.345449447631836,
+                    "shape": [
+                        40,
+                        42
+                    ],
+                    "text": "sil r ay n aw m ey n aa b iy dh ih sil b eh s sil t aa m sil f er sil b ih z sil n ih s sil m er sil jh er s sil",
+                    "token": "<space> r ay n aw m ey n aa b iy dh ih <space> b eh s <space> t aa m <space> f er <space> b ih z <space> n ih s <space> m er <space> jh er s <space>",
+                    "tokenid": "2 30 7 25 6 24 15 25 3 8 20 11 19 2 8 13 31 2 33 3 24 2 16 14 2 8 19 40 2 25 19 31 2 24 14 2 21 14 31 2"
+                }
+            ],
+            "utt2spk": "FJMG0"
+        },
+        "FJSJ0_SI1484": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " dheheraalzowaanihs tsiy kerzaef ter treyz <eos>",
+                    "rec_token": "<space> dh eh er aa l z ow aa n ih s <space> t s iy <space> k er z ae f <space> t er <space> t r ey z <space> <eos>",
+                    "rec_tokenid": "2 11 13 14 3 23 40 27 3 25 19 31 2 33 31 20 2 22 14 40 4 16 2 33 14 2 33 30 15 40 2 41",
+                    "score": -4.086860656738281,
+                    "shape": [
+                        29,
+                        42
+                    ],
+                    "text": "sil dh eh er aa s ow aa n ih s sil s iy sil k er z ae f sil t er sil t r uw th sil",
+                    "token": "<space> dh eh er aa s ow aa n ih s <space> s iy <space> k er z ae f <space> t er <space> t r uw th <space>",
+                    "tokenid": "2 11 13 14 3 31 27 3 25 19 31 2 31 20 2 22 14 40 4 16 2 33 14 2 33 30 36 34 2"
+                }
+            ],
+            "utt2spk": "FJSJ0"
+        },
+        "FJSJ0_SI2114": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " s teyng piyshnzeh  lehvmiyah dhowz dayz <eos>",
+                    "rec_token": "<space> s <space> t ey ng <space> p iy sh n z eh <space> <space> l eh v m iy ah <space> dh ow z <space> d ay z <space> <eos>",
+                    "rec_tokenid": "2 31 2 33 15 26 2 29 20 32 25 40 13 2 2 23 13 37 24 20 5 2 11 27 40 2 10 7 40 2 41",
+                    "score": -10.321039199829102,
+                    "shape": [
+                        30,
+                        42
+                    ],
+                    "text": "sil s sil t ey sil m iy sil sh ih s eh sil sil n l eh m iy ae sil dh ow z sil d ay s sil",
+                    "token": "<space> s <space> t ey <space> m iy <space> sh ih s eh <space> <space> n l eh m iy ae <space> dh ow z <space> d ay s <space>",
+                    "tokenid": "2 31 2 33 15 2 24 20 2 32 19 31 13 2 2 25 23 13 24 20 4 2 11 27 40 2 10 7 31 2"
+                }
+            ],
+            "utt2spk": "FJSJ0"
+        },
+        "FJSJ0_SI854": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " ihm perih jhihn tiheh s rihzayzdher mehnerfih ts <eos>",
+                    "rec_token": "<space> ih m <space> p er ih <space> jh ih n <space> t ih eh <space> s <space> r ih z ay z dh er <space> m eh n er f ih <space> t s <space> <eos>",
+                    "rec_tokenid": "2 19 24 2 29 14 19 2 21 19 25 2 33 19 13 2 31 2 30 19 40 7 40 11 14 2 24 13 25 14 16 19 2 33 31 2 41",
+                    "score": -9.738367080688477,
+                    "shape": [
+                        34,
+                        42
+                    ],
+                    "text": "sil ih n sil k er ih sil jh eh m sil t ih eh sil s er s ay z dh eh r sil b eh n ih f ih sil s sil",
+                    "token": "<space> ih n <space> k er ih <space> jh eh m <space> t ih eh <space> s er s ay z dh eh r <space> b eh n ih f ih <space> s <space>",
+                    "tokenid": "2 19 25 2 22 14 19 2 21 13 24 2 33 19 13 2 31 14 31 7 40 11 13 30 2 8 13 25 19 16 19 2 31 2"
+                }
+            ],
+            "utt2spk": "FJSJ0"
+        },
+        "FJSJ0_SX134": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " gihzihmer jhehn ihrihernays mah s dihs mehndihmayihniy <eos>",
+                    "rec_token": "<space> g ih z ih m er <space> jh eh n <space> ih r ih er n ay s <space> m ah <space> s <space> d ih s <space> m eh n d ih m ay ih n iy <space> <eos>",
+                    "rec_tokenid": "2 17 19 40 19 24 14 2 21 13 25 2 19 30 19 14 25 7 31 2 24 5 2 31 2 10 19 31 2 24 13 25 10 19 24 7 19 25 20 2 41",
+                    "score": -14.268787384033203,
+                    "shape": [
+                        47,
+                        42
+                    ],
+                    "text": "sil d ih s eh m sil b er ih n sil jh ae n y uw er iy er n ay s sil m ah n th s sil t ih s sil p eh n sil d ih n m ay ae m iy sil",
+                    "token": "<space> d ih s eh m <space> b er ih n <space> jh ae n y uw er iy er n ay s <space> m ah n th s <space> t ih s <space> p eh n <space> d ih n m ay ae m iy <space>",
+                    "tokenid": "2 10 19 31 13 24 2 8 14 19 25 2 21 4 25 39 36 14 20 14 25 7 31 2 24 5 25 34 31 2 33 19 31 2 29 13 25 2 10 19 25 24 7 4 24 20 2"
+                }
+            ],
+            "utt2spk": "FJSJ0"
+        },
+        "FJSJ0_SX224": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " pay gehzyerih jherihn s <eos>",
+                    "rec_token": "<space> p ay <space> g eh z y er ih <space> jh er ih n <space> s <space> <eos>",
+                    "rec_tokenid": "2 29 7 2 17 13 40 39 14 19 2 21 14 19 25 2 31 2 41",
+                    "score": -6.385080337524414,
+                    "shape": [
+                        19,
+                        42
+                    ],
+                    "text": "sil hh ah sil g uh sil sh er ih n sil d er ih n sil s sil",
+                    "token": "<space> hh ah <space> g uh <space> sh er ih n <space> d er ih n <space> s <space>",
+                    "tokenid": "2 18 5 2 17 35 2 32 14 19 25 2 10 14 19 25 2 31 2"
+                }
+            ],
+            "utt2spk": "FJSJ0"
+        },
+        "FJSJ0_SX314": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " hhihs piy plwermaar jhehnerihzdhehrwih biynowmihniy dfaarwehlfiher <eos>",
+                    "rec_token": "<space> hh ih s <space> p iy <space> p l w er m aa r <space> jh eh n er ih z dh eh r w ih <space> b iy n ow m ih n iy <space> d f aa r w eh l f ih er <space> <eos>",
+                    "rec_tokenid": "2 18 19 31 2 29 20 2 29 23 38 14 24 3 30 2 21 13 25 14 19 40 11 13 30 38 19 2 8 20 25 27 24 19 25 20 2 10 16 3 30 38 13 23 16 19 14 2 41",
+                    "score": -12.709178924560547,
+                    "shape": [
+                        45,
+                        42
+                    ],
+                    "text": "sil ih f sil p iy sil p l w er m aa r sil jh eh n er ah s dh eh r w uh sil b iy n ow n iy sil d f aa r w eh l f eh er sil",
+                    "token": "<space> ih f <space> p iy <space> p l w er m aa r <space> jh eh n er ah s dh eh r w uh <space> b iy n ow n iy <space> d f aa r w eh l f eh er <space>",
+                    "tokenid": "2 19 16 2 29 20 2 29 23 38 14 24 3 30 2 21 13 25 14 5 31 11 13 30 38 35 2 8 20 25 27 25 20 2 10 16 3 30 38 13 23 16 13 14 2"
+                }
+            ],
+            "utt2spk": "FJSJ0"
+        },
+        "FJSJ0_SX404": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " baar bern pey perihnliyvzihnih bih bayn paydxer <eos>",
+                    "rec_token": "<space> b aa r <space> b er n <space> p ey <space> p er ih n l iy v z ih n ih <space> b ih <space> b ay n <space> p ay dx er <space> <eos>",
+                    "rec_tokenid": "2 8 3 30 2 8 14 25 2 29 15 2 29 14 19 25 23 20 37 40 19 25 19 2 8 19 2 8 7 25 2 29 7 12 14 2 41",
+                    "score": -6.859884262084961,
+                    "shape": [
+                        33,
+                        42
+                    ],
+                    "text": "sil b aa r sil b er n sil p ey sil p er n l iy v z ih n ah sil b ih sil b aa n f ay er sil",
+                    "token": "<space> b aa r <space> b er n <space> p ey <space> p er n l iy v z ih n ah <space> b ih <space> b aa n f ay er <space>",
+                    "tokenid": "2 8 3 30 2 8 14 25 2 29 15 2 29 14 25 23 20 37 40 19 25 5 2 8 19 2 8 3 25 16 7 14 2"
+                }
+            ],
+            "utt2spk": "FJSJ0"
+        },
+        "FJSJ0_SX44": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " baes kah baa kah bihnehner teynihng gs paar t <eos>",
+                    "rec_token": "<space> b ae s <space> k ah <space> b aa <space> k ah <space> b ih n eh n er <space> t ey n ih ng <space> g s <space> p aa r <space> t <space> <eos>",
+                    "rec_tokenid": "2 8 4 31 2 22 5 2 8 3 2 22 5 2 8 19 25 13 25 14 2 33 15 25 19 26 2 17 31 2 29 3 30 2 33 2 41",
+                    "score": -9.612691879272461,
+                    "shape": [
+                        36,
+                        42
+                    ],
+                    "text": "sil b ae s sil k ah sil b aa l sil k m sil b iy n ih n er sil t ey n iy ng g s sil p aa r sil t sil",
+                    "token": "<space> b ae s <space> k ah <space> b aa l <space> k m <space> b iy n ih n er <space> t ey n iy ng g s <space> p aa r <space> t <space>",
+                    "tokenid": "2 8 4 31 2 22 5 2 8 3 23 2 22 24 2 8 20 25 19 25 14 2 33 15 25 20 26 17 31 2 29 3 30 2 33 2"
+                }
+            ],
+            "utt2spk": "FJSJ0"
+        },
+        "FKMS0_SI1490": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " phhae psih wahzray t phhae psihwahz jhahs t <eos>",
+                    "rec_token": "<space> p hh ae <space> p s ih <space> w ah z r ay <space> t <space> p hh ae <space> p s ih w ah z <space> jh ah s <space> t <space> <eos>",
+                    "rec_tokenid": "2 29 18 4 2 29 31 19 2 38 5 40 30 7 2 33 2 29 18 4 2 29 31 19 38 5 40 2 21 5 31 2 33 2 41",
+                    "score": -6.566794395446777,
+                    "shape": [
+                        33,
+                        42
+                    ],
+                    "text": "sil p hh ae sil p s ah w ah z r ay sil t sil p hh ae sil p s ih w ih z sil jh ah s sil t sil",
+                    "token": "<space> p hh ae <space> p s ah w ah z r ay <space> t <space> p hh ae <space> p s ih w ih z <space> jh ah s <space> t <space>",
+                    "tokenid": "2 29 18 4 2 29 31 5 38 5 40 30 7 2 33 2 29 18 4 2 29 31 19 38 19 40 2 21 5 31 2 33 2"
+                }
+            ],
+            "utt2spk": "FKMS0"
+        },
+        "FKMS0_SI2120": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " hhiy playz d dhahnaedxih d ehvrihthihngahnihshih pihzahwehthihn <eos>",
+                    "rec_token": "<space> hh iy <space> p l ay z <space> d <space> dh ah n ae dx ih <space> d <space> eh v r ih th ih ng ah n ih sh ih <space> p ih z ah w eh th ih n <space> <eos>",
+                    "rec_tokenid": "2 18 20 2 29 23 7 40 2 10 2 11 5 25 4 12 19 2 10 2 13 37 30 19 34 19 26 5 25 19 32 19 2 29 19 40 5 38 13 34 19 25 2 41",
+                    "score": -11.98269271850586,
+                    "shape": [
+                        45,
+                        42
+                    ],
+                    "text": "sil hh iy sil p aa z sil d sil dh eh n ih ae dx ih sil d sil eh v r ih th ih ng aa n ah sh ih sil p sil ih z ah w eh sil p ah n sil",
+                    "token": "<space> hh iy <space> p aa z <space> d <space> dh eh n ih ae dx ih <space> d <space> eh v r ih th ih ng aa n ah sh ih <space> p <space> ih z ah w eh <space> p ah n <space>",
+                    "tokenid": "2 18 20 2 29 3 40 2 10 2 11 13 25 19 4 12 19 2 10 2 13 37 30 19 34 19 26 3 25 5 32 19 2 29 2 19 40 5 38 13 2 29 5 25 2"
+                }
+            ],
+            "utt2spk": "FKMS0"
+        },
+        "FKMS0_SI860": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " dhiyzihng kluw d gliyvsahvae zihnzihs ahlahsihz ehleyaafs <eos>",
+                    "rec_token": "<space> dh iy z ih ng <space> k l uw <space> d <space> g l iy v s ah v ae <space> z ih n z ih s <space> ah l ah s ih z <space> eh l ey aa f s <space> <eos>",
+                    "rec_tokenid": "2 11 20 40 19 26 2 22 23 36 2 10 2 17 23 20 37 31 5 37 4 2 40 19 25 40 19 31 2 5 23 5 31 19 40 2 13 23 15 3 16 31 2 41",
+                    "score": -17.066646575927734,
+                    "shape": [
+                        43,
+                        42
+                    ],
+                    "text": "sil dh iy z ih n sil k l uw sil d sil l iy v z ih v ae sil s n s ah z sil ih l n ah s ih z sil eh n l ey aa f s sil",
+                    "token": "<space> dh iy z ih n <space> k l uw <space> d <space> l iy v z ih v ae <space> s n s ah z <space> ih l n ah s ih z <space> eh n l ey aa f s <space>",
+                    "tokenid": "2 11 20 40 19 25 2 22 23 36 2 10 2 23 20 37 40 19 37 4 2 31 25 31 5 40 2 19 23 25 5 31 19 40 2 13 25 23 15 3 16 31 2"
+                }
+            ],
+            "utt2spk": "FKMS0"
+        },
+        "FKMS0_SX140": {
+            "output": [
+                {
+                    "name": "target1[1]",
+                    "rec_text": " ae ger kl chrow praanah ksaarahnyuwvihnliy dihs tuw bihdxih  <eos>",
+                    "rec_token": "<space> ae <space> g er <space> k l <space> ch r ow <space> p r aa n ah <space> k s aa r ah n y uw v ih n l iy <space> d ih s <space> t uw <space> b ih dx ih <space> <space> <eos>",
+                    "rec_tokenid": "2 4 2 17 14 2 22 23 2 9 30 27 2 29 30 3 25 5 2 22 31 3 30 5 25 39 36 37 19 25 23 20 2 10 19 31 2 33 36 2 8 19 12 19 2 2 41",
+                    "score": -10.434738159179688,
+                    "shape": [
+                        46,
+                        42
+                    ],
+                    "text": "sil ae sil g er sil k l sil ch er l sil p r aa dx ah sil k s aa r ah n iy v ih n l iy sil d ih s sil t r ih sil b ih dx ih sil sil",
+                    "token": "<space> ae <space> g er <space> k l <space> ch er l <space> p r aa dx ah <space> k s aa r ah n iy v ih n l iy <space> d ih s <space> t r ih <space> b ih dx ih <space> <space>",
+                    "tokenid": "2 4 2 17 14 2 22 23 2 9 14 23 2 29 30 3 12 5 2 22 31 3 30 5 25 20 37 19 25 23 20 2 10 19 31 2 33 30 19 2 8 19 12 19 2 2"
+                }
+            ],
+            "utt2spk": "FKMS0"
+        }
+    }
+}
